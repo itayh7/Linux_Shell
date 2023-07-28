@@ -18,6 +18,7 @@ Run the command "make" and run the executable file "myshell"
 '|': Enable executing commands in sequence using pipes.
 
 
+
 Process Manager Commands:
 
 'procs': List running processes.
