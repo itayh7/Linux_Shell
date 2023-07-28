@@ -19,5 +19,5 @@ Process Manager Commands:
 'kill <process_id>': Terminate a running/sleeping process.
 
 ## Credits
-My partner for this course: Shai Krantsberg
+My partner for this course: Shai Krantsberg.
 The Line Parser is written by the course staff.
